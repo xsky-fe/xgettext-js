@@ -30,7 +30,7 @@
     "node": ">=4"
   },
   "dependencies": {
-    "babylon": "^6.8.4",
+    "babylon": "^6.18.0",
     "estree-walker": "^0.3.0",
     "lodash": "^4.13.1"
   },

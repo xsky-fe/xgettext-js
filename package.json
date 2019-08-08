@@ -30,15 +30,15 @@
     "node": ">=4"
   },
   "dependencies": {
-    "babylon": "^6.18.0",
+    "babylon": "^7.0.0-beta.47",
     "estree-walker": "^0.3.0",
-    "lodash": "^4.13.1"
+    "lodash": "^4.17.15"
   },
   "devDependencies": {
     "chai": "^3.5.0",
     "eslint": "^3.9.0",
     "eslint-config-wpcalypso": "^0.6.0",
     "eslint-plugin-wpcalypso": "^3.0.2",
-    "mocha": "^3.1.2"
+    "mocha": "^6.2.0"
   }
 }
